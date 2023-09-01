@@ -193,6 +193,8 @@ _You need to fix some of the previous bugs in order to reproduce_
 
 **IMPORTANT:** Before sharing your CodeSandbox, open the `email.txt` file and replace your email on the only line of the file. Don't use any prefix or suffix, just your email.
 
+``https://codesandbox.io/s/kpwkpd``
+
 You will submit a link to a CodeSandbox with your responses. Make sure your CodeSandbox is not Read only and can be edited, otherwise you will be disqualified. _See [Coding](#coding)_
 
 ---
